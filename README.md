@@ -1,14 +1,13 @@
 # Resume of Dommeti Siva Durga Ssi kumar
-## Fullstack DevOps Engineer
+## Fullstack Aws+DevOps Engineer
 
 **As an Indutrial Engineer with professional experience as a Fullstack Engineer, I've started pursuing a career in DevOps. It was a natural next step for me and has been transforming the way I work. What I'm looking for are opportunities to help other developers and companies to build their microservices architecture and cloud infrastructure.**
 
-* Location: Curitiba, Brazil (GMT -3)
-* E-mail: edu.nicastro@gmail.com
-* Mobile: +55 41 998847515
-* Github: https://github.com/edumueller
-* LinkedIn: https://www.linkedin.com/in/eduardonicastro/
-* Website: https://edumueller.github.io/resume/
+* Location: P.M.Palem, Vizag (GMT +5:30)
+* E-mail: sivadommeti09@yahoo.com
+* Mobile: +919985169234
+* Github: https://github.com/sivadommeti09
+* Website: https://sivadommeti09.github.io/resume/
 
 ## Work experience
 
