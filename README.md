@@ -1,4 +1,4 @@
-# Resume of Eduardo Mauricio Mueller Nicastro
+# Resume of Dommeti Siva Durga Ssi kumar
 ## Fullstack DevOps Engineer
 
 **As an Indutrial Engineer with professional experience as a Fullstack Engineer, I've started pursuing a career in DevOps. It was a natural next step for me and has been transforming the way I work. What I'm looking for are opportunities to help other developers and companies to build their microservices architecture and cloud infrastructure.**
